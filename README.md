@@ -10,9 +10,12 @@ We went on to learn about _Variables_, _Type Declaration_ as well as _Immutable/
 We learned about simple mathematical functions, as well as creating a program that returned if a number was __odd__ or __even__
 
 ### Post-Lunch Break
-We then went to talk about ___For___ Loops, ___While___ Loops, ___If/Else conditionals___ as well as the ForEach function.
+We then went to talk about ___For___ Loops, ___While___ Loops, ___If/Else conditionals___ as well as the ForEach function. Towards the end of the session, Callum made a good point about ForEach being unusable on Float/Double data types, with us then finding out that there either isn't actually a way to iterate by a float/double typed element. 
 
-#### Extras I found on Google
+### What's next?
+We've been notified that tomorrow we will continue looking at Functions within Scala
+
+### Extras I found on Google
 I found out how to store a user input and also reference the variable it is store in within a String as well as an output/println
 See below:
 ```

@@ -1,3 +1,4 @@
-object Syntax {
+object Syntax extends App {
+  println("Testing Commit and Push!")
 
 }

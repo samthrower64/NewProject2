@@ -2,7 +2,7 @@ package com.tutorials
 
 object Values {
   def main(args: Array[String]): Unit = {
-    val data = Map("A"->32, "B"->40, "C"->66, "D"->70)
+    val data = Map("Dave"->32, "Steve"->40, "Phil"->66, "John"->70)
     println(data.mkString(" / "))
     val tuple:(String, Int)=("Sam", 21)
 

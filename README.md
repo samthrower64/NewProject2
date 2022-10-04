@@ -12,7 +12,7 @@ We learned about simple mathematical functions, as well as creating a program th
 ### Post-Lunch Break
 We then went to talk about ___For___ Loops, ___While___ Loops, ___If/Else conditionals___ as well as the ForEach function.
 
-##### Extras I found on Google
+#### Extras I found on Google
 I found out how to store a user input and also reference the variable it is store in within a String as well as an output/println
 See below:
 ```
